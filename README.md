@@ -7,10 +7,10 @@
   <li>Save it inside a folder and create a password folder </li>
   <li>Inside the password folder and create a password.txt file </li>
  </ul>
- ---
- ##Structure
+<hr/>
+ <h3>Structure<h3>
  <br/>
- |--password
-        |------password.txt
- |--twitter.py
----
+ |--password <br/>
+        |------password.txt <br/>
+ |--twitter.py <br/>
+
